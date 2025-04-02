@@ -1,6 +1,6 @@
 # about
 疑似就労の渋谷CDLEプロジェクトのポートフォリオ用リポジトリです。  
-アプリURL：https://pdinds012.slack.com/archives/C0737U140JH/p1737094622164119  
+アプリURL：https://project-phase2-2024-1039281230417.asia-northeast1.run.app/  
 他の利用者の個人情報等が含まれるのを防ぐため、担当したファイルのみこのリポジトリに公開しております。
 
 # ファイルと担当区分
